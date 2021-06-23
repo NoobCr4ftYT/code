@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+#app{
+    height: 800px;
+    width: 100%;
+    background-color: deepskyblue;
+}
+h1{
+    margin-bottom: 50px;
+}
+
+#games {
+    height: 600px;
+    width: 100%;
+    background-color:aquamarine;
